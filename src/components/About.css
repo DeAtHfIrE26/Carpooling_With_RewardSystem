@@ -1,0 +1,100 @@
+.about{
+    height: 125vh;
+    width:100%;
+    display: inline-flex;
+
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 30px;
+background: #35B5DE;
+}
+
+.about-box{
+    display: flex;
+padding: 2px 84px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.photo-cfo{
+    width: 243px;
+height: 263px;
+background: #000;
+}
+.about-text-style{
+
+}
+
+.photoss{
+    display: flex;
+justify-content: center;
+align-items: center;
+gap: 46px;
+
+}
+
+.name-cfo{
+    display: flex;
+justify-content: center;
+align-items: center;
+gap: 47px;
+}
+
+.cfo-1{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+    width: 240px;
+height: 64px;
+background: #E2EFF8;
+}
+
+.about-heading{
+    display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+
+.about-style{
+    display: flex;
+    
+width: 520px;
+height: 83px;
+flex-direction: column;
+justify-content: center;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.about-text{
+    display: flex;
+width: 987px;
+height: 353px;
+justify-content: center;
+align-items: center;
+}
+
+.about-textstyle{
+    display: flex;
+width: 987px;
+height: 478px;
+font-family: 'Gilroy-Bold', sans-serif;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

@@ -1,0 +1,162 @@
+.profile-back{
+width: 100%;
+height: 100vh;
+display: flex;
+padding: 30px 0px;
+align-items: center;
+gap: 69px;
+background: #35B5DE;
+}
+
+.profile-detail{
+  display: flex;
+  width: 350px;
+  height: 700px;
+  padding: 16px 32px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  flex-shrink: 0;
+border-radius: 0px 20px 20px 0px;
+background: #E2EFF8;
+}
+
+.profile-pic{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 13px
+}
+
+.profile-picture{
+  width: 100px;
+height: 100px;
+background: #CBCAFF;
+border-radius: 50%;
+background-size: cover;
+}
+
+.profile-username-pic{
+  padding-top: 20px;
+  width: 199px;
+height: 45px;
+color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.profile-line{
+  width: 372px;
+height: 1px;
+background: black;
+}
+
+.profile-userdetail{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+
+.profile-name{
+  width: 339px;
+height: 80px;
+
+}
+
+.profile-username{
+  display: flex;
+  width: 88px;
+  height: 30px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.profile-user-name{
+  width: 339px;
+  display: flex;
+  height: 40px;
+  text-align: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #CBCAFF;
+  align-items: center;
+}
+
+.profile-table
+{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 50px;
+}
+
+.profile-table1{
+  display: flex;
+  padding: 30px 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+background: #E2EFF8;
+}
+
+.profilelisttext{
+  font-size: 32px;
+}
+.profile-table-content{
+width: 824px;
+height: 250px;
+background: #E2EFF8;
+
+  width: 950px; /* Set the width of the container */ /* Add a horizontal scrollbar when content overflows */
+  white-space: nowrap; 
+}
+
+.edit-icon{
+  position: absolute;
+    bottom: 480px;
+    left: 177px;
+    width: 60px;
+    
+}
+.table-container {
+  max-height: 240px;
+ /* Set a maximum height for vertical scrollbar */
+  overflow-y: auto; 
+  overflow-x: hidden;
+  /* Hide both horizon
+tal and vertical scrollbars */
+}
+
+.table-container::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+}
+
+.table-style {
+  width: 99.5%; /* Make the table fill the container */
+  border-collapse: collapse; /* Combine borders into a single border */
+}
+
+.table-style th, .table-style td {
+  border: 0.1px solid black; /* Add borders for better visibility */
+  padding: 20px; /* Add padding for better readability */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+

@@ -1,0 +1,34 @@
+* {
+    -ms-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    font-family: "Gilroy-Medium", Sans-serif;
+  }
+
+  button{
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-style: groove;
+  }
+
+
+
+
+  button:hover {
+    background-color: #75e222; /* Change the color when hovering */
+  }
+
+  input{
+    border-style: groove;
+    
+  }
+
+  ::placeholder{
+    color: black;
+  }
+
+  select{
+    border-style: groove;
+    border-width: 2px;
+  }

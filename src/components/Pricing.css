@@ -1,0 +1,95 @@
+.mainn{
+    width: 100%;
+    height: 95vh;
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 60px;
+    gap: 54px;
+    background: #35B5DE;
+
+    }
+    
+    .boxx{
+        
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 54px;
+    }
+    
+    .innerr{
+    display: flex;
+    padding: 45px 33px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 43px;
+    border: solid black;
+    border-width: 2px;
+
+    background: #E2EFF8;
+    border-radius: 25px;
+    }
+    .pricing-content{
+    width: 323px;
+    height: 380px;
+    
+
+    }
+    .styling{
+        text-align: center;
+        margin-bottom: 50px;
+        font-size: 40px;
+    }
+
+    .style2{
+        font-size: 25px;
+        
+            text-align: left;
+            margin-top: 20px;
+            margin-bottom: 40px;
+        
+        }
+    
+
+
+    .pricing-btn{
+        
+        width: 200px;
+        align-items: center;
+        border-radius: 15px;
+    background: #35B5DE;
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    height: 40px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    }
+    .popup {
+        position: fixed;
+        width: 500px;
+        height: 200px;
+        display: flex;
+        border: solid black;
+        border-width: 2px;
+        border-radius: 15px;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #CBCAFF;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+        z-index: 1000;
+        font-size: 40px;
+      }

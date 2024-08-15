@@ -1,0 +1,99 @@
+.Passengerlist-main {
+    height: 100vh;
+    width: 100%;
+    display: inline-flex;
+    padding-top: 50px;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background: #35b5de;
+  }
+  
+  .Passengerlist-box {
+    min-height: 200px;
+    
+    display: flex;
+    padding: 15px 30px;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 50px;
+    border: 1px solid #000;
+    background: #e2eff8;
+    box-shadow: 10px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  
+  .Passengertext {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 15px;
+    line-height: normal;
+    width: 531px;
+    height: 63px;
+  }
+  
+  .Passengerlist-box-nodata {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin-top: 20px; /* Adjust as needed */
+  }
+  
+  .Passengerlist-list {
+    display: flex;
+    height: 80px;
+    padding: 5px 13px 1px 13px;
+    align-items: center;
+    align-content: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .Passengerlist-order {
+    display: flex;
+    padding: 17px 18px;
+    align-items: center;
+    gap: 23px;
+    border-radius: 15px;
+    background: #cbcaff;
+  }
+  
+  .Passengerlist-detail {
+    max-height: 550px; /* Adjust the maximum height as needed */
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  
+  .Passengerlist-detail::-webkit-scrollbar {
+    width: 0; /* Remove scrollbar space */
+  }
+  
+  .Passengerlist-confirm-btn {
+    display: flex;
+    width: 100px;
+    height: 24px;
+    padding: 9px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 15px;
+    background: #35b5de;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  
+  .Passengerlist-textstyle {
+    display: flex;
+    width: 961px;
+    height: 37px;
+    flex-direction: column;
+    justify-content: center;
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
