@@ -1,8 +1,12 @@
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -----------------------------------------------------------------CarPooling System--------------------------------------------------------------------
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 The CarPooling System is an innovative, AI-driven solution designed to revolutionize ride-sharing, promote sustainability, and reduce traffic congestion. Our system connects drivers with passengers heading in the same direction through seamless ride matching. The solution offers a secure, efficient, and eco-friendly transportation ecosystem for users.
 
 > "Bringing efficiency, sustainability, and convenience to the roads." 🚗
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ## 🚀 Features
 
@@ -12,6 +16,9 @@ The CarPooling System is an innovative, AI-driven solution designed to revolutio
 - Rating system for quality control
 - Comprehensive admin panel for management
 - Reward system to incentivize carpooling
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
 
 ## 💻 Tech Stack
 
@@ -24,6 +31,8 @@ The CarPooling System is an innovative, AI-driven solution designed to revolutio
 | Node.js     | React    | MongoDB  |      
 | Express.js  | HTML5    | Redis    | 
 | JavaScript      | CSS3     | Neo4j    |
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ## 🛠️ Skills
 
@@ -43,6 +52,8 @@ The CarPooling System is an innovative, AI-driven solution designed to revolutio
     </tr>
   </table>
 </div>
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ## 📂 Project Structure
 
@@ -75,6 +86,7 @@ CarPooling System/
 ├── package-lock.json
 └── package.json
 ```
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ## 🛠 Installation
 
@@ -96,6 +108,9 @@ CarPooling System/
 
 4. Set up environment variables in `app.env`.
 
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
+
 ## 🚀 Usage
 
 1. Start the backend server:
@@ -113,6 +128,9 @@ CarPooling System/
    http://localhost:3000
    ```
 
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
+
 ## 📡 API Endpoints
 
 - `POST /api/users/register` - Register a new user
@@ -122,19 +140,8 @@ CarPooling System/
 - `PUT /api/rides/:id` - Update ride details
 - `DELETE /api/rides/:id` - Delete a ride
 
-## 🤝 Contributing
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-Contributions are always welcome! Whether it's a bug fix, new feature, or suggestion, please feel free to submit a pull request. Don't forget to check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20💖%20by-Kashyap%20Patel-blue?style=flat-square" alt="Made with love by Kashyap Patel" />
-</div>
 
 ## 🌟 Special Features
 
