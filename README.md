@@ -1,5 +1,5 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-----------------------------------------------CarPooling System--------------------------------------------------------
+CarPooling System
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 The CarPooling System is an innovative, AI-driven solution designed to revolutionize ride-sharing, promote sustainability, and reduce traffic congestion. Our system connects drivers with passengers heading in the same direction through seamless ride matching. The solution offers a secure, efficient, and eco-friendly transportation ecosystem for users.
