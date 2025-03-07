@@ -1,6 +1,34 @@
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-CarPooling System
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CarPooling%20System&fontSize=70&fontAlignY=35&animation=fadeIn" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+CarPooling+System;Efficient+Ride+Sharing+Solution;Connect+Drivers+and+Passengers&center=true&size=25&color=58a6ff&duration=3000&pause=1000">
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM2MjM3NzRlNDQ0YzQwNGYwYTQxMjg5ZWIwZWU1MzQ3YjM3MzRiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" alt="CarPooling Animation">
+</p>
+
+<div align="center">
+  <a href="#features">
+    <img src="https://img.shields.io/badge/Features-4B0082?style=for-the-badge&logo=bookstack&logoColor=white" alt="Features"/>
+  </a>
+  <a href="#installation">
+    <img src="https://img.shields.io/badge/Installation-008000?style=for-the-badge&logo=docusign&logoColor=white" alt="Installation"/>
+  </a>
+  <a href="#usage">
+    <img src="https://img.shields.io/badge/Usage-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Usage"/>
+  </a>
+  <a href="#contributing">
+    <img src="https://img.shields.io/badge/Contributing-DC143C?style=for-the-badge&logo=open-collective&logoColor=white" alt="Contributing"/>
+  </a>
+  <a href="#license">
+    <img src="https://img.shields.io/badge/License-333333?style=for-the-badge&logo=github&logoColor=white" alt="License"/>
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
 
 The CarPooling System is an innovative, AI-driven solution designed to revolutionize ride-sharing, promote sustainability, and reduce traffic congestion. Our system connects drivers with passengers heading in the same direction through seamless ride matching. The solution offers a secure, efficient, and eco-friendly transportation ecosystem for users.
 
